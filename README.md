@@ -19,7 +19,10 @@ A simple blog for users to create and comment on posts.
 
   
 ## Usage
-This app is meant to demonstrate a CLI-based e-commerce back-end.
+You can use this site to create and login to an account to create and comment on blog posts.
+
+## Live App
+You can visit a live deployment of the site [here](https://sleepy-citadel-59629.herokuapp.com).
   
 ## Contributing 
 If you wish to contribute to the project, please email me.
